@@ -1,0 +1,7 @@
+# локальні налаштування (UID/GID на Linux)
+.env
+# службові папки IDE
+.idea/
+.vscode/
+# залежності Composer
+vendor/
